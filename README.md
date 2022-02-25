@@ -1,2 +1,2 @@
-# Showcasing Hands On Skills With Some Dummy Datasets
-This repository contains sample analysis, modelling I made with applied statistical procedures and algorithms on some common datasets (some may be already cleaned).
+# My Old Experiments Well Formatted
+This repository contains some of my sample analysis, modelling I have done with well documented. I'll keep adding old ones and new ones I may take here.
